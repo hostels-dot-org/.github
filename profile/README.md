@@ -1,5 +1,5 @@
-🎉 Welcome to Webhostelsng
+# :tada: Welcome to Webhostelsng
 
 ------------------------------
 
-Webhostelsng is a hotel services start-up solving accomodation problems among undergraduates in Nigeria. We are starting with Obafemi Awolowo University (OAU)
+Webhostelsng is a hostel services start-up solving accomodation problems among undergraduates in Nigeria. We are starting with Obafemi Awolowo University (OAU)
